@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ref_artifact
+# key: ref_artifact
+# --
+artifact_id INTEGER REFERENCES artifacts(id),

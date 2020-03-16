@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: src-code
+# key: src
+# --
+#+NAME: <name>
+#+BEGIN_SRC <language> <switches> <header arguments>
+<body>
+#+END_SRC

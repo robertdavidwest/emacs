@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: serial_id
+# key: serial
+# --
+id SERIAL PRIMARY KEY NOT NULL,

@@ -1,0 +1,5 @@
+# key: ref_ccn
+# name: ref_ccn
+# --
+
+REFERENCES my12.ccns(ccn_id),

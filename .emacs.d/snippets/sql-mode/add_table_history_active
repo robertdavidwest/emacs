@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: add_table_history_active
+# key: add_table_history_active
+# --
+
+CREATE TABLE table_name_history(
+);
+
+CREATE TABLE table_name_raw LIKE (table_name_history);
+
+CREATE TABLE table_name LIKE (table_name_history);

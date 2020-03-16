@@ -1,0 +1,39 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/rwest/Bitbucket/mercator/" . "registry/")
+ ("/Users/rwest/Bitbucket/" . "mercator/")
+ ("/Users/rwest/.emacs.d/" . "customizations/")
+ ("/Users/rwest/" . "Bitbucket/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/rwest/Bitbucket/mercator/registry/"
+ "/Users/rwest/.emacs.d/customizations/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "project.clj"
+ "ui.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/rwest/Bitbucket/mercator/registry/" (24092 41588 702260 349000) "src/" "compile_and_run.sh" "Procfile" "resources/" "target/" "config/" "less/" "test/" "project.clj" "../" "./")
+
+ ("/Users/rwest/Bitbucket/mercator/" (24092 39931 506972 756000) "envs/" ".git/" "registry/" ".gitignore" "README.md" "release-notes/" "offline_reports/" "etl/" "util.py" "imgs/" "test-data/" "documentation/" "../" "./")
+
+ ("/Users/rwest/" (24092 41400 873407 896000) "Buzzworthy-5bea4d2f16a9.json" ".conda/" "GolandProjects/" ".viminfo" ".bash_history" ".mongorc.js" ".gitconfig" "rev-content-credentials.json" ".python_history" "Downloads/" "anaconda3/" "twilio.json" ".bash_profile" ".m2/" "Bitbucket/" "mount_drives.py" "Documents/" ".npm/" "stack_overflow/" "keen-buzzworthy-aol.json" ".jupyter/" ".zoomus/" ".Trash/" "twilioNumbers.json" ".dbshell" "Applications/" ".vimrc" "Movies/" ".ssh/" "satnam.jpg" ".cisco/" "Github/" "gdrive-keen-buzzworthy-aol.json" "Public/" ".lein/" ".vimrc_temp" ".bash_sessions/" ".cups/" ".node_repl_history" ".emacs.d/" "makeProvCat.py" ".oracle_jre_usage/" "mongodb-data/" "tratakum1.pdf" ".lesshst" "postgres_testing/" ".matplotlib/" "Library/" "Desktop/" ".ipython/" "standup" "daily_report_data.pickle" "test.csv" "rtk-credentials.json" "Pictures/" ".psql_history" ".local/" ".swp" ".bashrc" ".netrc" "clojure/" "bin/" "test/" ".CFUserTextEncoding" ".DS_Store" "go/" "gdrive-buzzworthy.json" ".vim/" ".virtualenvs/" ".anyconnect" "rev-content-two-credentials.json" "bitbucket_personal/" "Music/" ".config/" "analytics_onboarding.json" "save.py" "../" "./")
+
+ ("/Users/rwest/Bitbucket/" (24086 6573 891980 792000) "lds_raw/" "mercator/" "remedy_sql/" "small-jobs/" "analytics-onboarding/" "../" "./")
+
+ ("/Users/rwest/.emacs.d/customizations/" (24087 34320 68543 31000) "elisp-editing.el" "setup-js.el" "navigation.el" "editing.el" "setup-clojure.el" "misc.el" "shell-integration.el" "ui.el" "../" "./")
+
+ ("/Users/rwest/.emacs.d/" (24087 34327 68123 254000) ".smex-items" "backups/" "themes/" "elpa/" ".gitignore" ".recentf" "README.md" "init.el" "auto-save-list/" "projectile-bookmarks.eld" "customizations/" "ido.last" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
